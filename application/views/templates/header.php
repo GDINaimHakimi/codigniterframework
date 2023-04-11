@@ -1,5 +1,5 @@
 <html>
     <head>
-        <Title>stuff</Title>
+        <title>Framework</title>
     </head>
 <body>
